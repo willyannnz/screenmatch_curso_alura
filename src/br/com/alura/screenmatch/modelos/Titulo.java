@@ -20,6 +20,10 @@ public class Titulo {
         return nome;
     }
 
+    public int getAnoDeLancamento() {
+        return anoDeLancamento;
+    }
+
     public void setAnoDeLancamento(int anoDeLancamento) {
         this.anoDeLancamento = anoDeLancamento;
     }
